@@ -1,0 +1,9 @@
+name : CopsAndRunners
+version : 1.0
+author : joschma
+main : CopsNRunners.CopsNRunners
+api-version: 1.13
+
+commands:
+  cnr:
+   description: short usage

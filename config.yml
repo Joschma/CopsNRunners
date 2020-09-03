@@ -1,0 +1,7 @@
+Arenas:
+  TestArena:
+    locCops: 0,0,0
+    locRunners: 0,0,0
+    locLooby: 0,0,0
+Message:
+  noArgs: "if you want help /cnr help"
